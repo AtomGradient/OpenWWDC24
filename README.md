@@ -10,7 +10,7 @@ https://developer.apple.com/videos/play/wwdc2024/10160  wwdc2024_10160.ipynb
 https://developer.apple.com/videos/play/wwdc2024/10159/  A few days later
 
 # Deploy machine learning and AI models on-device with Core ML
-https://developer.apple.com/videos/play/wwdc2024/10159/  A few days later
+https://developer.apple.com/videos/play/wwdc2024/10161/  A few days later
 
 
 # Extra:
